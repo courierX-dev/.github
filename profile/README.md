@@ -31,7 +31,7 @@
 
 > 🚨 **We’re looking for OSS Maintainers & Contributors!**  
 > Help shape the future of email infrastructure.  
-> → [Get involved](https://github.com/courierx)
+> → [Get involved](https://github.com/courierx-dev)
 
 ---
 
