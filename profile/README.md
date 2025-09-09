@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://doc.courierx.dev">Docs</a> •
+  <a href="https://docs.courierx.dev">Docs</a> •
   <a href="https://courierx.dev">Website</a> •
   <a href="https://www.npmjs.com/org/courierx">NPM</a> •
   <a href="https://twitter.com/courierx">Twitter</a> •
@@ -56,7 +56,7 @@ This GitHub org contains all official CourierX projects:
 
 - **`courierx-backend`** → Core API + routing engine  
 - **`courierx-packages`** → TypeScript SDKs & utilities  
-- **`courierx-docs`** → Documentation site ([doc.courierx.dev](https://doc.courierx.dev))  
+- **`courierx-docs`** → Documentation site ([docs.courierx.dev](https://docs.courierx.dev))  
 - **`courierx-examples`** → Integration demos & starter kits  
 
 Future growth:  
@@ -67,7 +67,7 @@ Future growth:
 
 ## 🚀 Get Started
 
-📖 The fastest way to start is with the docs → [doc.courierx.dev](https://doc.courierx.dev)
+📖 The fastest way to start is with the docs → [docs.courierx.dev](https://docs.courierx.dev)
 
 Or install the client directly:
 
@@ -128,5 +128,5 @@ CourierX is licensed under the [MIT License](./LICENSE).
 ---
 
 <p align="center">
-  Built with ❤️ by the CourierX community · <a href="https://doc.courierx.dev">Join us</a>
+  Built with ❤️ by the CourierX community · <a href="https://docs.courierx.dev">Join us</a>
 </p>
