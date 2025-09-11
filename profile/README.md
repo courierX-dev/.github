@@ -1,7 +1,7 @@
 <!-- CourierX README -->
 
 <p align="center">
-  <img src="https://courierx.dev/assets/logo.png" width="120" alt="CourierX Logo"/>
+  <img src="https://www.courierx.dev/assets/logo.png" width="120" alt="CourierX Logo"/>
 </p>
 
 <h1 align="center">CourierX</h1>
